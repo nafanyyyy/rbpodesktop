@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matve\\source\\repos\\rbpo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{232DD187-617C-4E88-96F9-A13A348BDF02}|rbpo\\rbpo.vcxproj|C:\\Users\\matve\\source\\repos\\rbpo\\rbpo\\rbpo.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{232DD187-617C-4E88-96F9-A13A348BDF02}|rbpo\\rbpo.vcxproj|solutionrelative:rbpo\\rbpo.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232DD187-617C-4E88-96F9-A13A348BDF02}|rbpo\\rbpo.vcxproj|C:\\Users\\matve\\source\\repos\\rbpo\\rbpo\\rbpo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{232DD187-617C-4E88-96F9-A13A348BDF02}|rbpo\\rbpo.vcxproj|solutionrelative:rbpo\\rbpo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232DD187-617C-4E88-96F9-A13A348BDF02}|rbpo\\rbpo.vcxproj|C:\\Users\\matve\\source\\repos\\rbpo\\rbpo\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{232DD187-617C-4E88-96F9-A13A348BDF02}|rbpo\\rbpo.vcxproj|solutionrelative:rbpo\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232DD187-617C-4E88-96F9-A13A348BDF02}|rbpo\\rbpo.vcxproj|C:\\Users\\matve\\source\\repos\\rbpo\\rbpo\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{232DD187-617C-4E88-96F9-A13A348BDF02}|rbpo\\rbpo.vcxproj|solutionrelative:rbpo\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rbpo.rc",
+              "DocumentMoniker": "C:\\Users\\matve\\source\\repos\\rbpo\\rbpo\\rbpo.rc",
+              "RelativeDocumentMoniker": "rbpo\\rbpo.rc",
+              "ToolTip": "C:\\Users\\matve\\source\\repos\\rbpo\\rbpo\\rbpo.rc*",
+              "RelativeToolTip": "rbpo\\rbpo.rc*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-24T19:46:36.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\matve\\source\\repos\\rbpo\\rbpo\\Resource.h",
+              "RelativeDocumentMoniker": "rbpo\\Resource.h",
+              "ToolTip": "C:\\Users\\matve\\source\\repos\\rbpo\\rbpo\\Resource.h",
+              "RelativeToolTip": "rbpo\\Resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T18:58:57.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\matve\\source\\repos\\rbpo\\rbpo\\framework.h",
+              "RelativeDocumentMoniker": "rbpo\\framework.h",
+              "ToolTip": "C:\\Users\\matve\\source\\repos\\rbpo\\rbpo\\framework.h",
+              "RelativeToolTip": "rbpo\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T18:52:34.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rbpo.cpp",
+              "DocumentMoniker": "C:\\Users\\matve\\source\\repos\\rbpo\\rbpo\\rbpo.cpp",
+              "RelativeDocumentMoniker": "rbpo\\rbpo.cpp",
+              "ToolTip": "C:\\Users\\matve\\source\\repos\\rbpo\\rbpo\\rbpo.cpp",
+              "RelativeToolTip": "rbpo\\rbpo.cpp",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAALoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T18:24:18.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
